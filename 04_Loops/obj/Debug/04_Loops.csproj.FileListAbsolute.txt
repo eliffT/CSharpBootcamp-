@@ -1,8 +1,0 @@
-D:\CSharp Kamp\CSharpBootcamp\04_Loops\bin\Debug\04_Loops.exe.config
-D:\CSharp Kamp\CSharpBootcamp\04_Loops\bin\Debug\04_Loops.exe
-D:\CSharp Kamp\CSharpBootcamp\04_Loops\bin\Debug\04_Loops.pdb
-D:\CSharp Kamp\CSharpBootcamp\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
-D:\CSharp Kamp\CSharpBootcamp\04_Loops\obj\Debug\04_Loops.csproj.SuggestedBindingRedirects.cache
-D:\CSharp Kamp\CSharpBootcamp\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
-D:\CSharp Kamp\CSharpBootcamp\04_Loops\obj\Debug\04_Loops.exe
-D:\CSharp Kamp\CSharpBootcamp\04_Loops\obj\Debug\04_Loops.pdb
