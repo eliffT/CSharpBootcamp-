@@ -1,8 +1,0 @@
-D:\CSharp Kamp\CSharpBootcamp\CSharpBootcamp\bin\Debug\CSharpBootcamp.exe.config
-D:\CSharp Kamp\CSharpBootcamp\CSharpBootcamp\bin\Debug\CSharpBootcamp.exe
-D:\CSharp Kamp\CSharpBootcamp\CSharpBootcamp\bin\Debug\CSharpBootcamp.pdb
-D:\CSharp Kamp\CSharpBootcamp\CSharpBootcamp\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
-D:\CSharp Kamp\CSharpBootcamp\CSharpBootcamp\obj\Debug\01_MainSubjects.csproj.SuggestedBindingRedirects.cache
-D:\CSharp Kamp\CSharpBootcamp\CSharpBootcamp\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
-D:\CSharp Kamp\CSharpBootcamp\CSharpBootcamp\obj\Debug\CSharpBootcamp.exe
-D:\CSharp Kamp\CSharpBootcamp\CSharpBootcamp\obj\Debug\CSharpBootcamp.pdb
